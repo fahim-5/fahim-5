@@ -4,5 +4,4 @@
     💞️ I’m looking to collaborate on ML projects
     📫 How to reach me: mfaysal223224@bscse.uiu.ac.bd
     😄 Pronouns: He/Him
-    ⚡ Fun fact: I enjoy experimenting with new ML techniques!
-    
+    ⚡ Fun fact: I enjoy experimenting with new ML techniques.
