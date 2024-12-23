@@ -37,5 +37,5 @@ I'm a passionate Computer Science student specializing in full-stack web develop
 
 🌱 Fun Fact: I’m fluent in Bangla, English, and Hindi!
 
-📈 GitHub Stats:
+
 
