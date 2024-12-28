@@ -42,7 +42,7 @@ This keeps it short while maintaining a professional tone.
 
 🌱 Fun Fact: I’m fluent in Bangla, English, and Hindi!
 
-## Tools I Work With:
+## 🚀 Tools I Work With:
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
