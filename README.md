@@ -44,7 +44,7 @@ This keeps it short while maintaining a professional tone.
 
 ## 🚀 Tools I Work With:
 
-Here’s the updated badge list with Express included:
+
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)  
