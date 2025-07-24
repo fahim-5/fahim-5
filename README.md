@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Fahim Faysal
 
-### 💻 Full-Stack Developer | 🎯 Problem Solver | 📊 Data Analyst
+### 💻 Developer | 🎯 Problem Solver | 📊 Data Analyst
 
 Passionate Computer Science student specializing in building robust web applications and deriving insights from data. I thrive on turning complex problems into elegant solutions.
 
