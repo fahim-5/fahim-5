@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Fahim Faysal
 
-### 💻 Developer | 🎯 Problem Solver | 📊 Data Analyst
-
+### 💻 Developer | 🎯 Problem Solver |
 Passionate Computer Science student specializing in building robust web applications and deriving insights from data. I thrive on turning complex problems into elegant solutions.
 
 ---
@@ -79,6 +78,5 @@ Passionate Computer Science student specializing in building robust web applicat
 ## 🎯 Fun Facts
 
 - 🗣️ Fluent in Bangla, English, and Hindi
-- ♟️ Chess enthusiast
 - 📚 Avid reader of tech blogs and documentation
 - ☕ Coffee-powered coding sessions
