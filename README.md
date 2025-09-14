@@ -1,8 +1,9 @@
 # 👋 Hello, I'm Fahim Faysal
 
 ### 💻 Developer | 🎯 Problem Solver |
-Passionate Computer Science student specializing in building robust web applications and deriving insights from data. I thrive on turning complex problems into elegant solutions.
-
+Software developer with strong full-stack web development skills and a passion for DevOps and cloud
+technologies. Experienced in building scalable applications, applying clean architecture principles, and
+leveraging automation and data-driven approaches to solve real-world problems.
 ---
 
 ## 🛠️ Tech Stack
